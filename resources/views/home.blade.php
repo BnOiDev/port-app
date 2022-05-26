@@ -10,8 +10,6 @@
 
 <body>
 
-  {{-- <x-layout.navbar>
-  </x-layout.navbar> --}}
   
  <!-- ====== Navbar -->
  <header x-data="{navbarOpen: false}" class="bg-white w-full flex items-center">
