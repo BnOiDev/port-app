@@ -630,7 +630,7 @@
                  />
               </a>
               <p class="text-base text-body-color mb-7">
-                 Tu se torna eternamente responsavel por aquilo que cativas...
+               Comece onde está, Use o que você tem, Faça o que você pode...
               </p>
               <p class="flex items-center text-sm text-dark font-medium">
                  <span class="text-primary mr-3">
