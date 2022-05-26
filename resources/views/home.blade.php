@@ -10,7 +10,7 @@
 
 <body>
 
-  
+  {{-- TESTE --}}
  <!-- ====== Navbar -->
  <header x-data="{navbarOpen: false}" class="bg-white w-full flex items-center">
   <div class="container">
