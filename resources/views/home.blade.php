@@ -9,8 +9,11 @@
 </head>
 
 <body>
+
+  {{-- <x-layout.navbar>
+  </x-layout.navbar> --}}
   
-<!-- ====== Navbar -->
+ <!-- ====== Navbar -->
  <header x-data="{navbarOpen: false}" class="bg-white w-full flex items-center">
   <div class="container">
       <div class="flex -mx-4 items-center justify-between relative">
@@ -877,7 +880,7 @@
      </span>
   </div>
 </footer>
-<!-- ====== Footer Section End -->
+<!-- ====== Footer Section End --> 
 
    
 </body>
