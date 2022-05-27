@@ -1,5 +1,5 @@
 <!-- ====== Hero -->
-<div class="relative pt-[120px] lg:pt-[150px] pb-[110px] bg-white">
+<div class="relative pt-[20px] lg:pt-[150px] pb-[110px] bg-white">
   <div class="container">
     <div class="flex flex-wrap -mx-4">
       <div class="w-full lg:w-5/12 px-4">
@@ -26,7 +26,7 @@
           <ul class="flex flex-wrap items-center">
             <li>
               <a
-                href="javascript:void(0)"
+                href="https://www.linkedin.com/in/bruno-silva-de-almeida-4bb35551/"
                 class="
                   py-4
                   px-6
@@ -43,12 +43,12 @@
                   rounded-lg
                 "
               >
-                CV
+              Linkedin
               </a>
             </li>
             <li>
               <a
-                href="javascript:void(0)"
+                href="\cv\Profile CV.pdf"
                 class="
                   py-4
                   px-6
@@ -93,7 +93,7 @@
                     />
                   </svg>
                 </span>
-                Download
+                Download CV
               </a>
             </li>
           </ul>
@@ -105,7 +105,7 @@
         <div class="lg:text-right lg:ml-auto">
           <div class="relative inline-block z-10 pt-11 lg:pt-0">
             <img
-              src="\img\foto.jpeg"
+              src="\img\mario.png"
               alt="hero"
               class="max-w-full lg:ml-auto w-96"
             />

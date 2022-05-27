@@ -3,8 +3,8 @@
     <div class="container">
         <div class="flex -mx-4 items-center justify-between relative">
             <div class="px-4 w-70 max-w-full">
-                <a href="javascript:void(0);" class="w-full block py-5 text-center"> Almeida
-                    <img src="/img/logo-izi.png " alt="logo" class="w-20"/>
+                <a href="#menu" class="w-full block py-5 text-center"> Almeida
+                    <img id="menu" src="/img/logo-izi.png " alt="logo" class="w-20"/>
                 </a>
             </div>
             <div class="flex px-4 justify-between items-center w-full">
@@ -43,7 +43,7 @@
               ">
                         <ul class="blcok lg:flex">
                             <li>
-                                <a href="javascript:void(0)"
+                                <a href="#about"
                                     class="
                       text-base
                       font-medium
@@ -59,7 +59,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)"
+                                <a href="#projetos"
                                     class="
                       text-base
                       font-medium
@@ -75,7 +75,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)"
+                                <a href="#contact"
                                     class="
                       text-base
                       font-medium
@@ -93,11 +93,11 @@
                     </nav>
                 </div>
                 <div class="sm:flex justify-end hidden pr-16 lg:pr-0">
-                    <a href="javascript:void(0)"
+                    <a href="#tutorials"
                         class=" text-base font-medium text-dark hover:text-primary py-3 px-7">
                         Tutoriais
                     </a>
-                    <a href="javascript:void(0)"
+                    <a href="#contact"
                         class=" text-base font-medium text-white bg-primary rounded-lg py-3 px-7 hover:bg-opacity-90">
                           
                         Entre em contato

@@ -7,9 +7,9 @@ x-data="
     inactiveClasses: 'text-body-color hover:bg-primary hover:text-white',
   }
 "
-class="pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]"
+class=" dark:bg-gray-800  pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]"
 >
-<div class="container">
+<div class="container ">
   <div class="flex flex-wrap -mx-4">
     <div class="w-full px-4">
       <div class="text-center mx-auto mb-[60px] max-w-[510px]">
@@ -17,12 +17,13 @@ class="pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]"
           Trabalhos
         </span>
         <h2
+          id="projetos"
           class="
             font-bold
             text-3xl
             sm:text-4xl
             md:text-[40px]
-            text-dark
+            text-white
             mb-4
           "
         >

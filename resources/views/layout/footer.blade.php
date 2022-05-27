@@ -5,7 +5,7 @@
          <div class="w-full sm:w-2/3 lg:w-3/12 px-4">
             <div class="w-full mb-10">
                <a
-                  href="javascript:void(0)"
+                  href="#menu"
                   class="inline-block max-w-[160px] mb-6"
                   >
                <img
@@ -114,7 +114,7 @@
                <h4 class="text-dark text-lg font-semibold mb-9">SIGA AS NOSSAS REDES SOCIAIS</h4>
                <div class="flex items-center mb-6">
                   <a
-                     href="javascript:void(0)"
+                     href="https://www.facebook.com/bruno.almeida.564813/"
                      class="
                      w-8
                      h-8
@@ -172,7 +172,7 @@
                      </svg>
                   </a>
                   <a
-                     href="javascript:void(0)"
+                     href="https://www.linkedin.com/in/bruno-silva-de-almeida-4bb35551/"
                      class="
                      w-8
                      h-8
