@@ -40,20 +40,22 @@
               </blockquote>
             </span>
             <h2 class="font-bold text-3xl sm:text-4xl dark:text-black mb-8">
-              Sobre-min
+              Um pouco Sobre-min
             </h2>
             <p class="text-base dark:text-gray-400 mb-8">
-              Trabalho como desenvolvedor de software profissional. <br />
-              Durante minha carreira trabalhei em vários tipos de projetos com várias tecnologias,
-              mas muitas vezes sinto que sou um desenvolvedor júnior que acabou de começar a codificar. <br />
+              Atualmente trabalho como desenvolvedor de software sou profissional.<br />
+              Durante minha carreira trabalhei em vários empregos agora lido com projetos e várias tecnologias,
+              mas muitas vezes sinto que sou um desenvolvedor que acabou de começar a codificar... <br />
+            </p>  
+            <p class="text-base dark:text-gray-400 mb-8">
+             trabalho com projetos na empresa:<br />
             </p>
-            {{-- <p class="text-base dark:text-gray-400 mb-8">
-              In 2018 I decided to create a YouTube channel and share my knowledge. My channel is mostly focused on
-              <span class="text-amber-500 font-bold">PHP</span> and <span class="text-amber-500 font-bold">JavaScript</span>. <br />
-              My content is mostly focused on practical examples and projects. <br />
-            </p>
-            <x-button-link href="https://youtube.com/thecodeholic" variant="red" target="_blank">
-              View my channel
+            <div>
+              <img id="trabalho" src="\img\logo-novo-mundo.png " alt="logo" class="max-h-10" />
+            </div>
+
+            {{-- <x-button-link href="#" variant="red" target="_blank">
+              Teste
             </x-button-link> --}}
           </div>
         </div>

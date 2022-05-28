@@ -6,12 +6,15 @@
                 <div class="max-w-[570px] mb-12 lg:mb-0">
                     <h2
                         class="text-dark dark:text-gray-100 mb-6 uppercase font-bold text-[32px] sm:text-[40px] lg:text-[36px] xl:text-[40px]">
-                        Tem duvidas entra em Contato
+                        Vamos trabalhar juntos.
                     </h2>
                     <p class="text-base text-body-color dark:text-gray-200 leading-relaxed mb-9">
                         Se você acha que minha experiência e habilidades atendem às suas necessidades, sinta-se à
                         vontade para entrar em contato comigo.
+
+                        Tem um projeto? é algo emocionante. Grande ou pequeno. Celular ou web.
                     </p>
+                   
                     <div class="flex mb-8 max-w-[370px] w-full">
                         <div
                             class="

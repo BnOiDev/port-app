@@ -8,7 +8,7 @@
     <title>Portfólio - Almeida</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
-    <link rel="icon" type="image/x-icon" href="\img\mario.png">
+    <link rel="icon" type="image/x-icon" href="\img\avatarMenu.png">
 
     <script src="https://apis.google.com/js/platform.js"></script>
 </head>
