@@ -17,7 +17,7 @@ class=" dark:bg-gray-800  pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]"
           Trabalhos
         </span>
         <h2
-          id="projetos"
+          id="projects"
           class="
             font-bold
             text-3xl

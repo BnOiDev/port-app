@@ -14,7 +14,7 @@
               </div>
               <div class="py-3 sm:py-4">
                 <img
-                  src="{{ url('/img/profile.png') }}"
+                  src="{{ url('/img/samu.jpeg') }}"
                   alt=""
                   class="rounded-2xl w-full"
                 />
@@ -45,10 +45,14 @@
             <p class="text-base dark:text-gray-400 mb-8">
               Atualmente trabalho como desenvolvedor de software sou profissional.<br />
               Durante minha carreira trabalhei em vários empregos agora lido com projetos e várias tecnologias,
-              mas muitas vezes sinto que sou um desenvolvedor que acabou de começar a codificar... <br />
+              mas muitas vezes sinto que sou um desenvolvedor que tem muito a aprender... <br />
             </p>  
+            {{-- <p class="text-base dark:text-gray-400 mb-8">
+              Além do meu trabalho, família primeiro lugar, tenho filho bem pequenino
+              gosto de esportes, gosto de montain bike, video games, tecnologia sou bem proativo, dinâmico e persistente nos objetivos.<br />
+            </p> --}}
             <p class="text-base dark:text-gray-400 mb-8">
-             trabalho com projetos na empresa:<br />
+             Atualmente trabalho com projetos na empresa:<br />
             </p>
             <div>
               <img id="trabalho" src="\img\logo-novo-mundo.png " alt="logo" class="max-h-10" />

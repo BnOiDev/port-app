@@ -36,7 +36,7 @@
                <ul>
                   <li>
                      <a
-                        href="javascript:void(0)"
+                        href="#about"
                         class="
                         inline-block
                         text-base text-body-color
@@ -50,7 +50,7 @@
                   </li>
                   <li>
                      <a
-                        href="javascript:void(0)"
+                        href="#projects"
                         class="
                         inline-block
                         text-base text-body-color
@@ -64,7 +64,7 @@
                   </li>
                   <li>
                      <a
-                        href="javascript:void(0)"
+                        href="\cv\Profile CV.pdf"
                         class="
                         inline-block
                         text-base text-body-color
@@ -78,7 +78,7 @@
                   </li>
                   <li>
                      <a
-                        href="javascript:void(0)"
+                        href="#contact"
                         class="
                         inline-block
                         text-base text-body-color
@@ -185,7 +185,7 @@
                      </svg>
                   </a>
                </div>
-               <p class="text-base text-body-color">&copy;Almeida 2022</p>
+               <p class="text-base text-body-color">&copy; Almeida 2022</p>
             </div>
          </div>
       </div>

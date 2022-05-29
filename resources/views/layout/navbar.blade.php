@@ -64,7 +64,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#projetos"
+                                <a href="#projects"
                                     class="
                       text-base
                       font-medium
