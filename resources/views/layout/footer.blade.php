@@ -20,7 +20,7 @@
                <p class="flex items-center text-sm text-dark font-medium">
                   <span class="text-primary mr-3">
                   </span>
-                  <span>+55 (62) 98242-8369</span>
+                  <span></span>
                </p>
             </div>
          </div>
