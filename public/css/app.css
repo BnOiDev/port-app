@@ -1037,6 +1037,10 @@ body {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
 .pt-20 {
   padding-top: 5rem;
 }
@@ -1787,6 +1791,10 @@ body {
 
   .xl\:text-sm {
     font-size: 1rem;
+  }
+
+  .xl\:text-xl {
+    font-size: 1.5rem;
   }
 }
 @media (min-width: 1320px) {
