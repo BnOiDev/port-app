@@ -168,7 +168,8 @@ class=" dark:bg-gray-800  pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]"
               transition
             "
           >
-          Ver detalhes
+          Ver detalhes 
+          
           </a>
         </div>
       </div>
