@@ -10,7 +10,7 @@
     <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="\img\avatarMenu.png">
 
-	<script defer src="https://unpkg.com/alpinejs@3.10.2/dist/cdn.min.js"></script>
+	{{-- <script defer src="https://unpkg.com/alpinejs@3.10.2/dist/cdn.min.js"></script> --}}
     <script src="https://apis.google.com/js/platform.js"></script>
 </head>
 
