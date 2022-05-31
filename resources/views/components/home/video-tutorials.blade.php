@@ -5,10 +5,10 @@
       <div class="w-full px-4">
         <div class="text-center mx-auto mb-[60px] max-w-[510px]">
           <h2 class="font-bold text-3xl text-dark dark:text-black-300 mb-4">
-            Repasse de Conhecimento
+            Repasse de Conhecimento (EM BREVE)
           </h2>
           <p class="text-base text-body-color">
-           Veja meus videos
+           Equanto isso..
           </p>
         </div>
       </div>

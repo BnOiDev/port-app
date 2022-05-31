@@ -24,7 +24,7 @@ class VideoTutorials extends Component
             [
                 'videoId' => 'v2AC41dglnM',
                 'title' => 'Thunderstruck',
-                'description' => 'Ahahah ahahah ahahaaha!'
+                'description' => 'Bora ouvir musica!'
             ],
             [
                 'videoId' => 'etAIpkdhU9Q',
