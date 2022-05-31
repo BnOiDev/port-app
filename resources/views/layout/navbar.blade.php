@@ -16,7 +16,8 @@
                         <span class="relative w-[30px] h-[2px] my-[6px] block bg-body-color"></span>
                         <span class="relative w-[30px] h-[2px] my-[6px] block bg-body-color"></span>
                     </button>
-                    <nav :class="!navbarOpen && 'hidden'" id="navbarCollapse" class="
+                    <nav :class="!navbarOpen && 'hidden'" id="navbarCollapse"
+                        class="
                 absolute
                 py-5
                 px-6
@@ -31,22 +32,7 @@
                 lg:block lg:static lg:shadow-none
               ">
                         <ul class="blcok lg:flex">
-                            <li>
-                                <a href="#menu"
-                                    class="
-                      text-base
-                      font-medium
-                      text-dark
-                      hover:text-primary
-                      py-2
-                      lg:inline-flex
-                      flex
-                      lg:ml-12
-                    ">
-                                    Inicio
-
-                                </a>
-                            </li>
+                          
                             <li>
                                 <a href="#about"
                                     class="
