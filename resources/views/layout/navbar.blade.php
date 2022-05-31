@@ -32,7 +32,7 @@
                 lg:block lg:static lg:shadow-none
               ">
                         <ul class="blcok lg:flex">
-                          
+
                             <li>
                                 <a href="#about"
                                     class="

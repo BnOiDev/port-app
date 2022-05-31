@@ -107,7 +107,7 @@
             <img
               src="\img\gif\cafe.gif"
               alt="hero"
-              class="max-w-full lg:ml-auto max-w-max"
+              class="max-w-full lg:ml-auto max-h-96"
             />
             <span class="absolute -left-8 -bottom-8 z-[-1]">
              {{-- Cont.. --}}
