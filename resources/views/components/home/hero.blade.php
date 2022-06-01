@@ -1,5 +1,5 @@
 <!-- ====== Hero -->
-<div class="relative pt-[20px] lg:pt-[150px] pb-[110px] bg-white">
+<div class="relative pt-[25px] lg:pt-[150px] pb-[110px] bg-white">
   <div class="container">
     <div class="flex flex-wrap -mx-4">
       <div class="w-full lg:w-5/12 px-4">

@@ -19,8 +19,8 @@ class Navbar extends Component
             ['label' => 'Sobre', 'href' => '#about'],
             ['label' => 'Projetos', 'href' => '#projects'],
             ['label' => 'Videos', 'href' => '#tutorials'],
-            // ['label' => 'Testimonials', 'href' => '#testimonials' ],
-            ['label' => 'Contatos', 'href' => '#contact'],
+            ['label' => 'CV', 'href' => '\cv\Profile CV.pdf' ],
+            // ['label' => 'Contatos', 'href' => '#contact'],
         ];
     }
 

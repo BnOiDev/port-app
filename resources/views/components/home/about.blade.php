@@ -40,7 +40,7 @@
               </blockquote>
             </span>
             <h2 class="font-bold text-3xl sm:text-4xl dark:text-black mb-8">
-              Um pouco Sobre-min
+             Sobre-min
             </h2>
             <p class="text-base dark:text-gray-400 mb-8">
               Atualmente trabalho como desenvolvedor de software sou profissional.<br />

@@ -22,40 +22,46 @@ class Portfolio extends Component
     {
         $this->items = [
             [
-                'category' => ['Laravel', 'Tailwind.css', 'Vue3'],
-                'title' => 'Full Stack app with Laravel, Tailwindcss and Vue 3',
-                'image' => url('/img/survey.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-vue-survey'
+                'category' => ['Laravel', 'Bootstrap', 'Vue', 'PHP'],
+                'title' => 'Laravel, Bootstrap, VueJs',
+                'image' => url('/img/projetos/megasimples.png'),
+                'github' => '#'
             ],
             [
-                'category' => ['Yii2', 'Bootstrap'],
-                'title' => 'E-commerce website with Yii2',
-                'image' => url('/img/yii2-ecommerce.jpg'),
-                'github' => 'https://github.com/thecodeholic/yii2-ecommerce-website'
+                'category' => ['Laravel','Vue','Bootstrap'],
+                'title' => 'Laravel + Vue + Bootstrap ',
+                'image' => url('/img/projetos/modinha.png'),
+                'github' => '#'
             ],
             [
-                'category' => ['PHP', 'Laravel'],
-                'title' => 'REST API with Laravel 8 and Sanctum',
-                'image' => url('/img/laravel-rest-api.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-image-manipulation-rest-api'
+                'category' => ['Vue'],
+                'title' => 'MelhoriasPW',
+                'image' => url('/img/projetos/melhoriaspw.png'),
+                'github' => '#'
             ],
             [
-                'category' => ['PHP'],
-                'title' => 'PHP MVC Framework',
-                'image' => url('/img/php-mvc-framework.png'),
-                'github' => 'https://github.com/thecodeholic/php-mvc-framework'
+                'category' => ['Figma'],
+                'title' => 'Prototipação, UX/UI',
+                'image' => url('/img/projetos/prototipomodinha.png'),
+                'github' => '#'
             ],
             [
-                'category' => ['Yii2', 'Bootstrap'],
-                'title' => 'YouTube clone with Yii2',
-                'image' => url('/img/yii2-youtube-clone.png'),
-                'github' => 'https://github.com/thecodeholic/Yii2-Youtube-Clone'
+                'category' => ['Laravel', 'tailwindcss'],
+                'title' => 'Laravel + compon.. + tailwindcss',
+                'image' => url('/img/projetos/portfolio.png'),
+                'github' => '#'
             ],
             [
-                'category' => ['Yii2', 'VueJs'],
-                'title' => 'Yii2 + VueJs Notes application',
-                'image' => url('/img/yii2-vue-notes.png'),
-                'github' =>  'https://github.com/thecodeholic/vue.js-yii2-notes'
+                'category' => ['HTML + CSS','Bootstrap'],
+                'title' => 'Pedal Solta o Freio',
+                'image' => url('/img/projetos/soltaofreio.png'),
+                'github' =>  '#https://b7web.com.br/'
+            ],
+            [
+                'category' => ['Laravel', 'Vue', 'Bootstrap'],
+                'title' => 'B7web + Cursos , Refazendo',
+                'image' => url('/img/projetos/cursob7.png'),
+                'github' =>  '#https://b7web.com.br/'
             ],
         ];
 
