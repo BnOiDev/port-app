@@ -338,7 +338,7 @@ class=" dark:bg-gray-800  pt-20 lg:pt-[120px] pb-12 lg:pb-[90px]"
 
 <!-- ====== Portfolio Section Start -->
 <section
-  id="portfolio"
+  id="projects"
   x-data="
         {
           selectedTab: 'all',

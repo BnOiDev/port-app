@@ -8,7 +8,8 @@
        Me siga no GitHub.
     </h2>
   </x-slot>
-    <x-button-link href="https://github.com/BnOiDev" variant="dark" class="mr-3" target="_blank">
-     <img src="\img\github.png" class="max-w-full lg:ml-auto w-28">
+  <x-button-link href="https://github.com/BnOiDev"  class="mr-3" target="_blank">
+    <img src="\img\github.png" class="max-w-full sm:ml-auto lg:ml-auto w-64">
+    {{-- <img src="\img\pinggit.png" class="max-w-full lg:ml-auto w-64"> --}}
     </x-button-link>
 </x-call-to-action>
