@@ -55,7 +55,7 @@ class Portfolio extends Component
                 'category' => ['HTML + CSS','Bootstrap'],
                 'title' => 'Pedal Solta o Freio',
                 'image' => url('/img/projetos/soltaofreio.png'),
-                'github' =>  '#https://b7web.com.br/'
+                'github' =>  '#https://www.soltaofreio.com.br/'
             ],
             [
                 'category' => ['Laravel', 'Vue', 'Bootstrap'],
