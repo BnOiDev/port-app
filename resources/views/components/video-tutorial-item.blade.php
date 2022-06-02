@@ -75,7 +75,7 @@
     <!-- ====== Video Section End -->
 
     <!-- Video Content -->
-    <div class="p-6 xl:p-7 2xl:p-9 h-[320px] overflow-hidden text-center">
+    <div class="p-6 xl:p-7 2xl:p-9 h-[200px] overflow-hidden text-center">
       <h3>
         <a
           href="https://youtu.be/{{ $videoId }}"

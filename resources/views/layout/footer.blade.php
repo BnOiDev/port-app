@@ -36,6 +36,20 @@
                <ul>
                   <li>
                      <a
+                        href="/"
+                        class="
+                        inline-block
+                        text-base text-body-color
+                        hover:text-primary
+                        leading-loose
+                        mb-2
+                        "
+                        >
+                     Inicio
+                     </a>
+                  </li>
+                  <li>
+                     <a
                         href="#about"
                         class="
                         inline-block

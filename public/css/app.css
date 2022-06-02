@@ -621,6 +621,10 @@ body {
   margin-left: 0.25rem;
   margin-right: 0.25rem;
 }
+.-mx-1 {
+  margin-left: -0.25rem;
+  margin-right: -0.25rem;
+}
 .mb-12 {
   margin-bottom: 3rem;
 }
@@ -677,6 +681,9 @@ body {
 }
 .mb-11 {
   margin-bottom: 2.75rem;
+}
+.mb-\[25px\] {
+  margin-bottom: 25px;
 }
 .block {
   display: block;
@@ -737,6 +744,12 @@ body {
 }
 .h-12 {
   height: 3rem;
+}
+.h-\[250px\] {
+  height: 250px;
+}
+.h-\[200px\] {
+  height: 200px;
 }
 .max-h-10 {
   max-height: 2.5rem;
@@ -824,6 +837,12 @@ body {
 }
 .max-w-\[310px\] {
   max-width: 310px;
+}
+.max-w-\[400px\] {
+  max-width: 400px;
+}
+.max-w-\[350px\] {
+  max-width: 350px;
 }
 .-translate-y-1\/2 {
   --tw-translate-y: -50%;

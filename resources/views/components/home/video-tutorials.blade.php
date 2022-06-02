@@ -1,9 +1,9 @@
 <!-- ====== Cards Section Start -->
-<section id="tutorials" class=" dark:bg-gray-800 pt-24 pb-16">
+<section id="tutorials" class=" dark:bg-gray-800 pt-20 pb-16">
   <div class="container ">
     <div class="flex flex-wrap -mx-4">
       <div class="w-full px-4">
-        <div class="text-center mx-auto mb-[60px] max-w-[510px]">
+        <div class="text-center mx-auto mb-[25px] max-w-[400px]">
           <h2 class="font-bold text-3xl text-white dark:text-white-300 mb-4">
             Repasse de Conhecimento
           </h2>
