@@ -20,3 +20,5 @@ Route::get('/', function () {
 Route::get('/navbar', function () {
     return view('layout\navbar');
 });
+
+Route::post('/contact/submit', [\App\Http\Controllers\ContactController::class, 'submit']);

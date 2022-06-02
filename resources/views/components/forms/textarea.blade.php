@@ -11,7 +11,7 @@
       outline-none
       focus-visible:shadow-none
       focus:border-primary
-      dark:bg-slate-800
+     
       dark:text-gray-300'
     ])
   }}
