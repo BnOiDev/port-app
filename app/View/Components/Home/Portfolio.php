@@ -31,7 +31,7 @@ class Portfolio extends Component
                 'category' => ['Laravel','Vue','Bootstrap'],
                 'title' => 'Laravel + Vue + Bootstrap ',
                 'image' => url('/img/projetos/modinha.png'),
-                'github' => '#'
+                'github' => '#https://www.modinha.com.br/'
             ],
             [
                 'category' => ['Vue'],
@@ -43,13 +43,13 @@ class Portfolio extends Component
                 'category' => ['Figma'],
                 'title' => 'Prototipação, UX/UI',
                 'image' => url('/img/projetos/prototipomodinha.png'),
-                'github' => '#'
+                'github' => '#https://www.modinha.com.br/'
             ],
             [
                 'category' => ['Laravel', 'tailwindcss'],
                 'title' => 'Laravel + compon.. + tailwindcss',
                 'image' => url('/img/projetos/portfolio.png'),
-                'github' => '#'
+                'github' => '/'
             ],
             [
                 'category' => ['HTML + CSS','Bootstrap'],
