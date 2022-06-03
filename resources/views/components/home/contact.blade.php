@@ -88,7 +88,7 @@
                         email: '',
                         message: '',
                       };
-                      this.successMessage = 'Thanks for your contact request. I will get back to you shortly.';
+                      this.successMessage = 'Obrigado pelo seu contato. Eu vou te responder em breve. pode ser que demore alguns minutos fora horário comercial';
                     })
                     .catch(res => {
                       if (res.status === 422) {
