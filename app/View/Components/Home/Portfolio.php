@@ -30,8 +30,8 @@ class Portfolio extends Component
             [
                 'category' => ['Laravel','Vue','Bootstrap'],
                 'title' => 'Laravel + Vue + Bootstrap ',
-                'image' => url('/img/projetos/modinha.png'),
-                'github' => '#https://www.modinha.com.br/'
+                'image' => url('/img/projetos/modinha2.png'),
+                'github' => 'https://www.modinha.com.br/'
             ],
             [
                 'category' => ['Vue'],
@@ -43,25 +43,49 @@ class Portfolio extends Component
                 'category' => ['Figma'],
                 'title' => 'Prototipação, UX/UI',
                 'image' => url('/img/projetos/prototipomodinha.png'),
-                'github' => '#https://www.modinha.com.br/'
+                'github' => 'https://www.modinha.com.br/'
             ],
             [
                 'category' => ['Laravel', 'tailwindcss'],
                 'title' => 'Laravel + compon.. + tailwindcss',
-                'image' => url('/img/projetos/portfolio.png'),
+                'image' => url('/img/projetos/portf.png'),
                 'github' => '/'
             ],
             [
                 'category' => ['HTML + CSS','Bootstrap'],
                 'title' => 'Pedal Solta o Freio',
-                'image' => url('/img/projetos/soltaofreio.png'),
-                'github' =>  '#https://www.soltaofreio.com.br/'
+                'image' => url('/img/projetos/sfn.png'),
+                'github' =>  'https://www.soltaofreio.com.br/'
             ],
             [
                 'category' => ['Laravel', 'Vue', 'Bootstrap'],
                 'title' => 'B7web + Cursos , Refazendo',
                 'image' => url('/img/projetos/cursob7.png'),
                 'github' =>  '#https://b7web.com.br/'
+            ],
+            [
+                'category' => ['Laravel', 'Bootstrap'],
+                'title' => 'Onvet team GP',
+                'image' => url('/img/projetos/onvet.png'),
+                'github' =>  ''
+            ],
+            [
+                'category' => ['Wordpress'],
+                'title' => 'Clube de Costura',
+                'image' => url('/img/projetos/clube.png'),
+                'github' =>  'https://www.clubedecostura.com.br/'
+            ],
+            [
+                'category' => ['Laravel'],
+                'title' => 'Losango Emprestimo',
+                'image' => url('/img/projetos/losango.png'),
+                'github' =>  '#'
+            ],
+            [
+                'category' => ['Vue'],
+                'title' => 'PW -> Desktop',
+                'image' => url('/img/projetos/pwdesk2.png'),
+                'github' =>  '#'
             ],
         ];
 

@@ -4,23 +4,27 @@
     <div class="flex flex-wrap -mx-4">
       <div class="w-full lg:w-5/12 px-4">
         <div class="hero-content">
-          <h1
-            class="
-              relative pt-[0px]
-              text-dark
-              font-bold
-              text-4xl
-              sm:text-[42px]
-              lg:text-[40px]
-              xl:text-[42px]
-              leading-snug
-              mb-3
-            "
-          >
-           
-           Ola, Sou Bruno Almeida <br />
-            Desenvolvedor
-          </h1>
+          <div>
+            <p>
+              <h1
+                class="
+                  relative pt-[5px]
+                  text-dark
+                  font-bold
+                  text-4xl
+                  sm:text-[42px]
+                  lg:text-[40px]
+                  xl:text-[42px]
+                  leading-snug
+                  mb-3
+                "
+              >
+               
+               Ola, Sou Bruno Almeida 
+                Desenvolvedor
+              </h1>
+            </p>
+          </div>
           <p class="text-base mb-8 text-body-color max-w-[480px]">
             e designer multidisciplinar que se concentra em contar as histórias dos meus clientes visualmente, através de experiências agradáveis ​e significativas. Sou especialista em sites responsivos e interfaces de usuário funcionais.
           </p>
@@ -105,11 +109,11 @@
       <div class="w-full lg:w-6/12 px-4">
         <div class="lg:text-right lg:ml-auto">
           <div class="relative inline-block z-10 pt-11 lg:pt-0">
-            <img
+            {{-- <img
               src="\img\gif\cafe.gif"
               alt="hero"
               class="max-w-full lg:ml-auto max-h-96"
-            />
+            /> --}}
             <span class="absolute -left-8 -bottom-8 z-[-1]">
              {{-- Cont.. --}}
             </span>

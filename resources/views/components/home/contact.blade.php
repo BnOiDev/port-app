@@ -47,7 +47,7 @@
                 <h4 class="font-bold text-dark dark:text-gray-200 text-xl mb-1">
                   Email 
                 </h4>
-                <p class="text-base text-body-color dark:text-gray-300">bnoo.almeida@gmail.com</p>
+                <p class="text-base text-body-color dark:text-white">bnoo.almeida@gmail.com</p>
               </div>
             </div>
           </div>
